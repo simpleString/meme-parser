@@ -1,0 +1,7 @@
+.idea
+.vscode
+build
+memes
+node_modules
+*.sqlite
+*.sqlite*
